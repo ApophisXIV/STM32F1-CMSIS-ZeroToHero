@@ -19,4 +19,3 @@ Mediante los prescalers se puede tunear la frecuencia clock de los perifericos.
 Por default todos peripheral clocks estan deshabilitados para ahorrar energia. En los MCU modernos lo comun es inicializar el clock del periferico antes de usarlo de lo contrario no funcionara ni podrá ser configurado.
 
 El RCC puede ser considerado como un periferico más que permite la configurarion y tunning de la base de tiempo de los elementos del sistema.
-
